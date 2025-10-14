@@ -1,0 +1,501 @@
+company_name,intern_role,stipend,location_mode,skills_required,degrees_eligible
+HCL,Mobile App Development Intern,20000,Gujarat,"NodeJS, Excel, MATLAB, Java, JavaScript",B.Tech
+IBM,UI/UX Design Intern,15000,Uttar Pradesh,"NodeJS, Tableau, MATLAB, C++, Kubernetes","MSc, BSc, BE"
+Google,Business Analyst Intern,20000,Kerala,"Kubernetes, Azure, JavaScript, Power BI, Docker","B.Tech, MBA, MSc"
+Infosys,Digital Marketing Intern,5000,Assam,"Azure, Docker, MATLAB",MSc
+Amazon,UI/UX Design Intern,30000,Chandigarh,"Java, Kubernetes","BE, BSc"
+Cognizant,Business Analyst Intern,10000,Uttar Pradesh,"MATLAB, HTML/CSS","B.Tech, MSc"
+Byjus,Embedded Systems Intern,10000,Tamil Nadu,"Linux, ReactJS","MSc, B.Tech"
+Accenture,Business Analyst Intern,10000,Rajasthan,"C++, Linux, Tableau","MBA, BSc"
+IBM,Cybersecurity Intern,15000,Telangana,"Power BI, Tableau, AWS","BE, MBA, MSc"
+Cognizant,Machine Learning Intern,20000,West Bengal,"Excel, Docker, Azure, Keras, JavaScript","BSc, MSc, MBA"
+Amazon,UI/UX Design Intern,20000,Remote,"Linux, Java, ReactJS, Kubernetes","B.Tech, MBA, BSc"
+TCS,Cloud Engineering Intern,20000,Assam,"Python, SolidWorks, Keras, SQL","BE, B.Tech"
+TCS,Mobile App Development Intern,20000,Telangana,"JavaScript, ReactJS, SolidWorks","BE, BSc"
+Capgemini,Mobile App Development Intern,25000,Gujarat,"HTML/CSS, SolidWorks, Docker","MBA, B.Tech"
+Byjus,Web Development Intern,15000,Odisha,"Azure, PyTorch","MBA, BSc, B.Tech"
+HCL,Web Development Intern,25000,Gujarat,"CAD, Azure, Tableau, MATLAB, ReactJS","MBA, B.Tech"
+Tech Mahindra,Robotics Intern,10000,Kerala,"C++, TensorFlow, Excel","MBA, MSc, BE"
+Microsoft,Business Analyst Intern,25000,Karnataka,"AWS, Tableau, PyTorch, Power BI","BSc, MBA, BE"
+IBM,UI/UX Design Intern,25000,Gujarat,"CAD, MATLAB","MBA, BSc, MSc"
+HCL,Digital Marketing Intern,5000,Kerala,"Java, CAD, C++, Power BI",MBA
+Tech Mahindra,Robotics Intern,5000,Gujarat,"ReactJS, JavaScript, CAD, AWS","BE, MBA"
+IBM,Cybersecurity Intern,20000,Punjab,"Azure, CAD, MATLAB, TensorFlow",BSc
+Flipkart,Machine Learning Intern,15000,Maharashtra,"Tableau, Excel, NodeJS, JavaScript",BE
+Wipro,Robotics Intern,25000,Madhya Pradesh,"Kubernetes, PyTorch, ReactJS","B.Tech, BSc, MBA"
+Cognizant,Embedded Systems Intern,20000,Chandigarh,"Power BI, ReactJS, Linux, Keras, SQL",BSc
+Capgemini,Data Science Intern,10000,Punjab,"Power BI, Excel, Azure, Python",BE
+Amazon,Cloud Engineering Intern,30000,Karnataka,"SolidWorks, Azure, C++, PyTorch, Python",BSc
+Wipro,Mobile App Development Intern,20000,Delhi,"SolidWorks, Kubernetes","MSc, BE, MBA"
+Wipro,Embedded Systems Intern,30000,Andhra Pradesh,"JavaScript, Java","MSc, MBA"
+IBM,Cybersecurity Intern,25000,Odisha,"HTML/CSS, CAD, ReactJS, NodeJS","BSc, BE, B.Tech"
+IBM,Data Science Intern,30000,Kerala,"PyTorch, JavaScript, HTML/CSS","BE, B.Tech"
+Cognizant,Cloud Engineering Intern,25000,Maharashtra,"Power BI, Excel, MATLAB, C++","MBA, MSc"
+Amazon,Cloud Engineering Intern,15000,Andhra Pradesh,"Python, AWS, NodeJS, HTML/CSS","MBA, B.Tech, BSc"
+TCS,Mobile App Development Intern,5000,Maharashtra,"TensorFlow, MATLAB",MBA
+Byjus,Business Analyst Intern,20000,Delhi,"Tableau, Excel, SQL","MBA, MSc"
+IBM,UI/UX Design Intern,10000,Odisha,"Excel, SQL","MSc, MBA"
+TCS,UI/UX Design Intern,25000,Telangana,"MATLAB, Excel, Linux, TensorFlow, HTML/CSS","B.Tech, BE"
+Byjus,Data Science Intern,10000,Delhi,"C++, Kubernetes, ReactJS, Keras","BE, B.Tech, BSc"
+IBM,Web Development Intern,30000,Madhya Pradesh,"Docker, CAD, Python, SolidWorks","BE, B.Tech, MBA"
+HCL,UI/UX Design Intern,5000,Rajasthan,"JavaScript, HTML/CSS, C++",MBA
+Flipkart,Data Science Intern,25000,Karnataka,"C++, Kubernetes","BSc, B.Tech"
+Flipkart,Cloud Engineering Intern,30000,Gujarat,"MATLAB, Excel, Power BI, TensorFlow","BSc, B.Tech, MSc"
+HCL,Mobile App Development Intern,25000,Madhya Pradesh,"Java, CAD, HTML/CSS, C++","BE, BSc"
+Tech Mahindra,Cybersecurity Intern,10000,Assam,"HTML/CSS, Excel, Tableau",MSc
+Capgemini,Embedded Systems Intern,20000,Karnataka,"Azure, AWS, Kubernetes, Python","MBA, B.Tech"
+Accenture,UI/UX Design Intern,30000,Andhra Pradesh,"ReactJS, Keras, Java",BE
+Tech Mahindra,UI/UX Design Intern,20000,Punjab,"Linux, Docker, HTML/CSS, Kubernetes, Keras",MBA
+IBM,Cloud Engineering Intern,20000,West Bengal,"NodeJS, Python, Power BI, TensorFlow, Linux","BSc, MSc"
+Microsoft,Digital Marketing Intern,20000,Maharashtra,"TensorFlow, Azure",MSc
+Google,Robotics Intern,20000,Uttar Pradesh,"Keras, HTML/CSS","BE, MBA"
+Byjus,Machine Learning Intern,15000,Madhya Pradesh,"Excel, Docker, Python, Power BI, CAD","BSc, MBA, B.Tech"
+TCS,UI/UX Design Intern,15000,Tamil Nadu,"Kubernetes, HTML/CSS","MBA, BE, B.Tech"
+Microsoft,Robotics Intern,5000,Assam,"Linux, HTML/CSS",BSc
+Accenture,Data Science Intern,25000,Remote,"JavaScript, Kubernetes, PyTorch",B.Tech
+Infosys,Cloud Engineering Intern,10000,Kerala,"Linux, AWS, JavaScript",BSc
+Byjus,Data Science Intern,20000,Odisha,"Tableau, CAD, SQL","MSc, MBA"
+TCS,Mobile App Development Intern,30000,Telangana,"Power BI, SQL, Keras","MSc, BSc"
+Amazon,Robotics Intern,25000,Punjab,"Java, Power BI, Linux","BSc, MSc, MBA"
+Amazon,Robotics Intern,25000,Punjab,"PyTorch, JavaScript","MBA, BE"
+Capgemini,UI/UX Design Intern,10000,Assam,"Excel, MATLAB, Power BI","BSc, MSc, B.Tech"
+Wipro,Mobile App Development Intern,25000,Gujarat,"Keras, Docker","MBA, MSc"
+Accenture,UI/UX Design Intern,5000,Telangana,"TensorFlow, JavaScript, MATLAB","MSc, BE, MBA"
+Accenture,Mobile App Development Intern,25000,Remote,"SolidWorks, CAD","BE, B.Tech"
+Wipro,Web Development Intern,30000,Maharashtra,"AWS, TensorFlow, HTML/CSS","B.Tech, MSc"
+Cognizant,Robotics Intern,5000,Telangana,"SolidWorks, AWS, CAD","MBA, BSc"
+Microsoft,Web Development Intern,25000,Kerala,"AWS, HTML/CSS, SolidWorks, MATLAB, ReactJS","BSc, MSc, B.Tech"
+Capgemini,Cloud Engineering Intern,5000,Gujarat,"CAD, Tableau, HTML/CSS, SolidWorks",B.Tech
+Cognizant,Web Development Intern,15000,West Bengal,"MATLAB, Docker, JavaScript, NodeJS, Java",MBA
+Amazon,Web Development Intern,10000,Bihar,"Keras, Excel, SolidWorks, Kubernetes, Power BI","B.Tech, MBA"
+TCS,Web Development Intern,20000,Gujarat,"Docker, TensorFlow, CAD, MATLAB",BE
+Wipro,Machine Learning Intern,15000,Uttar Pradesh,"Kubernetes, Python, JavaScript, PyTorch","BE, BSc"
+Byjus,Cloud Engineering Intern,15000,Gujarat,"PyTorch, MATLAB, JavaScript",B.Tech
+Accenture,Cloud Engineering Intern,5000,Chandigarh,"C++, Excel","BSc, MSc"
+Capgemini,Web Development Intern,20000,Tamil Nadu,"Azure, HTML/CSS, PyTorch","MSc, B.Tech, BSc"
+Microsoft,Cybersecurity Intern,5000,Chandigarh,"Docker, NodeJS, Azure","MBA, BE, MSc"
+Capgemini,Cybersecurity Intern,20000,Assam,"HTML/CSS, Power BI","BE, BSc, MBA"
+TCS,Web Development Intern,5000,Tamil Nadu,"NodeJS, Excel, Docker, C++","BSc, MBA, MSc"
+Flipkart,Cybersecurity Intern,30000,Rajasthan,"JavaScript, Java, SQL",BSc
+Tech Mahindra,Cloud Engineering Intern,5000,Madhya Pradesh,"NodeJS, Linux","BSc, MSc, B.Tech"
+Amazon,Business Analyst Intern,25000,Uttar Pradesh,"Docker, Power BI","B.Tech, BE"
+Google,Robotics Intern,15000,Bihar,"HTML/CSS, C++, AWS, NodeJS","BE, MSc"
+Flipkart,UI/UX Design Intern,10000,Odisha,"CAD, Linux, Java, HTML/CSS","BE, BSc"
+Byjus,Robotics Intern,25000,Punjab,"NodeJS, Kubernetes, C++, CAD","MSc, BSc"
+IBM,UI/UX Design Intern,10000,Kerala,"Docker, Power BI, TensorFlow, MATLAB, AWS","BSc, MSc, B.Tech"
+Flipkart,Mobile App Development Intern,10000,Assam,"Excel, Linux","B.Tech, BE, MBA"
+Cognizant,Machine Learning Intern,20000,Remote,"Keras, Tableau","MSc, BE"
+Tech Mahindra,Cybersecurity Intern,5000,Tamil Nadu,"NodeJS, Tableau, Java","BE, BSc, MBA"
+Google,Machine Learning Intern,20000,Chandigarh,"Java, ReactJS","MSc, B.Tech"
+IBM,Web Development Intern,15000,Tamil Nadu,"Kubernetes, CAD, Excel, SQL",BE
+Infosys,Digital Marketing Intern,15000,Tamil Nadu,"Tableau, Python, HTML/CSS",MBA
+Tech Mahindra,Web Development Intern,15000,Delhi,"Java, MATLAB","BE, B.Tech"
+Cognizant,Robotics Intern,30000,Tamil Nadu,"Tableau, TensorFlow, JavaScript, Kubernetes","BSc, MSc, BE"
+Wipro,UI/UX Design Intern,25000,Chandigarh,"Linux, AWS","MSc, MBA"
+Capgemini,Business Analyst Intern,15000,Tamil Nadu,"Kubernetes, PyTorch","BE, BSc"
+Cognizant,Digital Marketing Intern,5000,Punjab,"AWS, HTML/CSS","MBA, MSc, BE"
+Flipkart,Digital Marketing Intern,15000,Madhya Pradesh,"JavaScript, Kubernetes, ReactJS",B.Tech
+Capgemini,Mobile App Development Intern,20000,Kerala,"JavaScript, ReactJS, Power BI","B.Tech, MBA, BSc"
+Amazon,Web Development Intern,10000,Delhi,"ReactJS, AWS, Kubernetes",BSc
+Byjus,UI/UX Design Intern,15000,Bihar,"Kubernetes, Python, PyTorch, HTML/CSS","MBA, MSc"
+HCL,Business Analyst Intern,25000,Chandigarh,"MATLAB, Linux, NodeJS",MBA
+Accenture,Business Analyst Intern,20000,Tamil Nadu,"Linux, C++, SolidWorks, Excel, AWS","BE, MBA, B.Tech"
+Microsoft,Digital Marketing Intern,10000,Telangana,"AWS, Python, C++",MSc
+Capgemini,Embedded Systems Intern,20000,Bihar,"Azure, ReactJS","BSc, BE, MBA"
+Flipkart,Cybersecurity Intern,30000,Telangana,"Power BI, SolidWorks, HTML/CSS, TensorFlow","B.Tech, MBA"
+TCS,Business Analyst Intern,15000,Kerala,"Keras, ReactJS, TensorFlow, Docker",B.Tech
+TCS,Web Development Intern,30000,Delhi,"Java, Kubernetes, Power BI","BSc, B.Tech, MSc"
+Tech Mahindra,Embedded Systems Intern,15000,Andhra Pradesh,"Docker, Python, SQL, HTML/CSS",BE
+Accenture,Machine Learning Intern,25000,Tamil Nadu,"Kubernetes, NodeJS, JavaScript, Excel","MBA, B.Tech"
+HCL,UI/UX Design Intern,30000,Chandigarh,"SolidWorks, Docker, Python","BE, B.Tech, MSc"
+Capgemini,Robotics Intern,10000,Remote,"SolidWorks, Docker","BSc, BE, MSc"
+Microsoft,Digital Marketing Intern,10000,Rajasthan,"Java, PyTorch, Kubernetes","BE, MBA, MSc"
+TCS,Cloud Engineering Intern,5000,Odisha,"TensorFlow, C++, Java, SolidWorks, JavaScript",MBA
+Tech Mahindra,Data Science Intern,5000,Telangana,"AWS, SolidWorks","MBA, BE, BSc"
+Flipkart,Machine Learning Intern,10000,Kerala,"HTML/CSS, MATLAB, Azure","MBA, BE, BSc"
+TCS,Cloud Engineering Intern,25000,Odisha,"HTML/CSS, ReactJS","B.Tech, BSc"
+IBM,Machine Learning Intern,25000,Punjab,"Keras, MATLAB, SQL",BE
+Infosys,Machine Learning Intern,5000,Odisha,"CAD, Python, HTML/CSS, Keras, AWS",BSc
+Google,Business Analyst Intern,5000,Kerala,"Tableau, C++, Excel, CAD","BSc, MBA"
+Tech Mahindra,Cybersecurity Intern,5000,Chandigarh,"Power BI, Docker",B.Tech
+Accenture,Machine Learning Intern,15000,Rajasthan,"Excel, NodeJS, AWS, Java, Power BI","B.Tech, BSc"
+Tech Mahindra,Data Science Intern,10000,Remote,"Excel, Docker, CAD, Java","BSc, BE"
+HCL,Machine Learning Intern,30000,Rajasthan,"Linux, MATLAB, C++, SolidWorks, CAD",BSc
+IBM,Web Development Intern,25000,Bihar,"Azure, Docker, Keras",B.Tech
+Amazon,Cybersecurity Intern,15000,Rajasthan,"PyTorch, Python, Docker","MSc, BSc, BE"
+Google,Business Analyst Intern,5000,Maharashtra,"Docker, Python, AWS, C++, Excel","BSc, MBA, MSc"
+Tech Mahindra,Digital Marketing Intern,30000,Assam,"MATLAB, Java, Kubernetes, HTML/CSS","MSc, MBA"
+Wipro,Machine Learning Intern,10000,Rajasthan,"Keras, Kubernetes, C++, HTML/CSS",B.Tech
+Accenture,Cloud Engineering Intern,20000,Maharashtra,"Keras, SolidWorks, SQL, C++","MSc, BE"
+Flipkart,Data Science Intern,5000,Kerala,"JavaScript, Excel, MATLAB",MSc
+TCS,Data Science Intern,15000,Gujarat,"ReactJS, SolidWorks, Excel",MBA
+IBM,Cybersecurity Intern,15000,Bihar,"NodeJS, MATLAB, Excel, C++, Docker",B.Tech
+Infosys,Embedded Systems Intern,20000,Punjab,"PyTorch, CAD, C++","BE, MSc, MBA"
+HCL,Embedded Systems Intern,20000,Remote,"ReactJS, MATLAB, HTML/CSS","B.Tech, BSc, MBA"
+Tech Mahindra,Data Science Intern,30000,Andhra Pradesh,"Excel, Azure, Keras, TensorFlow","MBA, MSc, B.Tech"
+IBM,Machine Learning Intern,20000,Andhra Pradesh,"Java, AWS, PyTorch","MBA, B.Tech, BSc"
+HCL,Cybersecurity Intern,10000,Delhi,"MATLAB, Azure, Keras, AWS",MBA
+Microsoft,UI/UX Design Intern,25000,Telangana,"NodeJS, Excel",BSc
+Infosys,Data Science Intern,30000,Remote,"Kubernetes, Excel, TensorFlow","BSc, BE"
+Flipkart,UI/UX Design Intern,30000,Telangana,"JavaScript, ReactJS, Tableau, Azure","B.Tech, MSc"
+Byjus,Cloud Engineering Intern,30000,Uttar Pradesh,"MATLAB, SQL, Python","BE, B.Tech"
+Flipkart,Cybersecurity Intern,30000,Andhra Pradesh,"HTML/CSS, SolidWorks, Azure, Java","B.Tech, BSc, MSc"
+Wipro,Cloud Engineering Intern,10000,Andhra Pradesh,"HTML/CSS, Docker, SQL","MBA, BSc"
+TCS,Cybersecurity Intern,5000,Chandigarh,"Python, ReactJS, SolidWorks","BE, MBA"
+TCS,Business Analyst Intern,20000,Chandigarh,"AWS, MATLAB","MSc, BE"
+Accenture,Machine Learning Intern,10000,Kerala,"CAD, HTML/CSS, Python, MATLAB, Tableau","BE, MBA"
+Amazon,Embedded Systems Intern,25000,Karnataka,"Linux, CAD",MBA
+IBM,Cloud Engineering Intern,30000,Chandigarh,"HTML/CSS, MATLAB, SQL, AWS","MSc, BE"
+Cognizant,Cybersecurity Intern,5000,Karnataka,"PyTorch, Power BI, AWS","MBA, BE"
+Flipkart,Digital Marketing Intern,10000,Odisha,"Azure, MATLAB, Tableau, HTML/CSS","B.Tech, BSc"
+Capgemini,Machine Learning Intern,5000,Telangana,"ReactJS, SolidWorks, Tableau, Docker","BE, BSc"
+Byjus,Robotics Intern,10000,Andhra Pradesh,"Tableau, SQL, Docker, HTML/CSS",MSc
+Flipkart,Machine Learning Intern,5000,Remote,"Keras, NodeJS, Linux",BSc
+Tech Mahindra,Digital Marketing Intern,10000,Telangana,"CAD, SQL, HTML/CSS",MSc
+Flipkart,Embedded Systems Intern,30000,Kerala,"ReactJS, Python, TensorFlow, PyTorch, Docker","MBA, BSc"
+Amazon,Robotics Intern,30000,Maharashtra,"Java, NodeJS, CAD, SolidWorks",MBA
+Tech Mahindra,Cybersecurity Intern,10000,Madhya Pradesh,"Keras, SolidWorks, Tableau, Excel, JavaScript","MBA, BE, B.Tech"
+Capgemini,Cloud Engineering Intern,10000,Rajasthan,"TensorFlow, MATLAB","BSc, B.Tech"
+Tech Mahindra,Data Science Intern,25000,Gujarat,"JavaScript, Excel, C++, Python, SolidWorks","BSc, MSc, B.Tech"
+Accenture,UI/UX Design Intern,5000,Madhya Pradesh,"Docker, MATLAB, Excel, TensorFlow","B.Tech, MSc, BSc"
+Infosys,Web Development Intern,30000,Bihar,"Java, Azure, Power BI, Excel","MBA, MSc"
+Infosys,UI/UX Design Intern,5000,Bihar,"NodeJS, Azure, Python","MSc, MBA, BSc"
+Cognizant,Web Development Intern,20000,Remote,"Keras, NodeJS, TensorFlow","MBA, B.Tech"
+HCL,Embedded Systems Intern,15000,Karnataka,"Python, AWS, JavaScript","BSc, MBA"
+Infosys,Embedded Systems Intern,10000,Remote,"Power BI, PyTorch, Kubernetes, HTML/CSS, Docker","BE, BSc, MSc"
+HCL,Machine Learning Intern,25000,Chandigarh,"C++, Linux, SQL","BE, MSc, MBA"
+Capgemini,UI/UX Design Intern,20000,West Bengal,"MATLAB, Python, Java, AWS",BSc
+Accenture,Data Science Intern,30000,Chandigarh,"Docker, Tableau, Azure","B.Tech, BSc"
+Accenture,Cybersecurity Intern,25000,Chandigarh,"HTML/CSS, ReactJS, C++, Azure, MATLAB","BE, MBA"
+Capgemini,Robotics Intern,15000,Assam,"MATLAB, Python, Kubernetes, Tableau","BSc, MSc"
+Google,Machine Learning Intern,15000,Remote,"HTML/CSS, Excel",B.Tech
+Cognizant,Digital Marketing Intern,15000,Maharashtra,"NodeJS, PyTorch, SQL, Power BI",MBA
+Infosys,UI/UX Design Intern,25000,Rajasthan,"Excel, Linux, Python, Kubernetes, AWS","MSc, MBA"
+Infosys,Embedded Systems Intern,20000,Odisha,"HTML/CSS, Kubernetes, CAD",MBA
+TCS,Business Analyst Intern,5000,West Bengal,"TensorFlow, NodeJS, Java, Linux",MSc
+Accenture,Embedded Systems Intern,20000,Maharashtra,"Power BI, Kubernetes, TensorFlow",MSc
+Microsoft,UI/UX Design Intern,30000,Remote,"Tableau, PyTorch","BE, BSc"
+Byjus,Business Analyst Intern,10000,Odisha,"ReactJS, Python, SolidWorks, HTML/CSS","MBA, MSc, BSc"
+Google,Mobile App Development Intern,25000,Karnataka,"SolidWorks, NodeJS, HTML/CSS, Docker, C++","BSc, MBA"
+Microsoft,Business Analyst Intern,15000,Uttar Pradesh,"C++, Keras","BSc, B.Tech, MBA"
+Flipkart,Data Science Intern,30000,Uttar Pradesh,"MATLAB, Power BI",MBA
+Microsoft,Robotics Intern,30000,Madhya Pradesh,"PyTorch, Azure, AWS",BE
+Cognizant,Digital Marketing Intern,30000,Remote,"Java, Docker, Linux, PyTorch, Tableau","MSc, MBA"
+Infosys,Cloud Engineering Intern,25000,Karnataka,"HTML/CSS, AWS, JavaScript, Python, Keras",MSc
+Accenture,Cybersecurity Intern,20000,Maharashtra,"Kubernetes, Tableau, Python","B.Tech, BE, MSc"
+Capgemini,Cybersecurity Intern,15000,Odisha,"NodeJS, MATLAB, SQL, Excel, Keras","MBA, B.Tech"
+Amazon,Web Development Intern,30000,Tamil Nadu,"HTML/CSS, CAD, SolidWorks, JavaScript","MSc, BSc, MBA"
+Cognizant,Web Development Intern,15000,Chandigarh,"TensorFlow, SQL","MBA, BSc"
+IBM,Cybersecurity Intern,5000,Maharashtra,"NodeJS, Tableau, Python","MBA, BE"
+Wipro,UI/UX Design Intern,5000,Kerala,"Excel, Azure","MBA, MSc"
+Google,Business Analyst Intern,20000,Kerala,"Docker, Azure, PyTorch, C++","BE, B.Tech, MSc"
+Accenture,Business Analyst Intern,20000,Rajasthan,"AWS, NodeJS, Azure","MBA, MSc, BSc"
+Microsoft,Embedded Systems Intern,5000,Andhra Pradesh,"Power BI, PyTorch, ReactJS, JavaScript, Docker","BSc, BE"
+Amazon,Business Analyst Intern,25000,Uttar Pradesh,"ReactJS, Java, TensorFlow, Azure, Kubernetes","MSc, MBA, BSc"
+Wipro,Cybersecurity Intern,10000,Rajasthan,"PyTorch, Excel, Keras, Tableau",B.Tech
+Google,Web Development Intern,15000,Telangana,"SolidWorks, Excel","MBA, B.Tech"
+HCL,Machine Learning Intern,25000,Maharashtra,"Java, Kubernetes, Power BI, MATLAB","MSc, MBA"
+Capgemini,Robotics Intern,15000,Uttar Pradesh,"Keras, JavaScript, Azure","B.Tech, BE, MSc"
+Google,Robotics Intern,30000,Bihar,"MATLAB, NodeJS, Azure, Java, CAD","MSc, B.Tech"
+Amazon,Cybersecurity Intern,5000,Remote,"Java, Python, TensorFlow, MATLAB",MBA
+Google,UI/UX Design Intern,25000,West Bengal,"Java, SolidWorks, ReactJS","B.Tech, BE"
+Amazon,Robotics Intern,10000,Andhra Pradesh,"PyTorch, TensorFlow","BE, BSc, B.Tech"
+Wipro,Robotics Intern,10000,Gujarat,"Kubernetes, Keras, SolidWorks, MATLAB",MSc
+Microsoft,Robotics Intern,20000,Assam,"JavaScript, Java",BSc
+Infosys,Mobile App Development Intern,15000,West Bengal,"Azure, Excel, Linux, CAD","MBA, B.Tech"
+HCL,Embedded Systems Intern,10000,Karnataka,"Java, ReactJS","BE, MBA"
+Wipro,Cybersecurity Intern,30000,Delhi,"NodeJS, SolidWorks, JavaScript, SQL",MBA
+Infosys,Mobile App Development Intern,30000,Maharashtra,"HTML/CSS, Java",BSc
+Capgemini,Cloud Engineering Intern,25000,Assam,"Azure, Power BI, Tableau, SolidWorks","MSc, B.Tech"
+Accenture,Machine Learning Intern,30000,Karnataka,"PyTorch, Keras, SQL","MBA, MSc"
+Wipro,Machine Learning Intern,15000,Odisha,"TensorFlow, Tableau, AWS, CAD","BE, B.Tech"
+Tech Mahindra,Machine Learning Intern,5000,Karnataka,"JavaScript, Docker","B.Tech, BE"
+IBM,Data Science Intern,10000,Gujarat,"Excel, MATLAB, HTML/CSS, ReactJS",MSc
+Capgemini,Digital Marketing Intern,5000,Uttar Pradesh,"Kubernetes, Azure, MATLAB","MSc, MBA"
+Capgemini,Embedded Systems Intern,20000,Tamil Nadu,"Azure, PyTorch","BE, BSc"
+Capgemini,Mobile App Development Intern,20000,Punjab,"Java, Keras, Azure, SQL","BE, BSc, MSc"
+HCL,UI/UX Design Intern,5000,Delhi,"CAD, MATLAB","MSc, BE, B.Tech"
+Tech Mahindra,Mobile App Development Intern,20000,West Bengal,"Excel, Azure, Linux",BSc
+Cognizant,Web Development Intern,25000,Remote,"SolidWorks, AWS, CAD","MBA, BSc"
+Infosys,Digital Marketing Intern,20000,Chandigarh,"Java, CAD, SolidWorks","BSc, MSc, B.Tech"
+Amazon,Mobile App Development Intern,25000,Remote,"Azure, MATLAB, TensorFlow, ReactJS, NodeJS","MSc, MBA"
+Flipkart,Business Analyst Intern,20000,Andhra Pradesh,"TensorFlow, PyTorch, Tableau","BE, BSc"
+Microsoft,Mobile App Development Intern,5000,Odisha,"Python, SolidWorks, Docker","B.Tech, MBA"
+Microsoft,Web Development Intern,30000,Assam,"JavaScript, CAD, C++, SolidWorks, SQL",BE
+Infosys,Data Science Intern,25000,Kerala,"MATLAB, Java, Kubernetes",BSc
+Wipro,Data Science Intern,30000,Maharashtra,"Docker, CAD, Keras, Java","BE, BSc, MSc"
+Wipro,Embedded Systems Intern,10000,Assam,"Tableau, SolidWorks, Java",BE
+Tech Mahindra,Web Development Intern,20000,Karnataka,"MATLAB, TensorFlow, NodeJS, PyTorch, Azure",MSc
+Flipkart,Embedded Systems Intern,5000,Telangana,"C++, Java","B.Tech, MBA"
+Accenture,Data Science Intern,5000,Telangana,"HTML/CSS, Java, Tableau, TensorFlow","B.Tech, BSc"
+Flipkart,Data Science Intern,20000,Kerala,"Keras, AWS, JavaScript, C++",BE
+Microsoft,Data Science Intern,25000,Chandigarh,"Kubernetes, Power BI","BSc, MSc"
+IBM,Robotics Intern,20000,Maharashtra,"Tableau, Azure, Power BI","B.Tech, BSc, MSc"
+Cognizant,Mobile App Development Intern,20000,Punjab,"MATLAB, TensorFlow, Linux, Docker, Python","B.Tech, BSc, MSc"
+Capgemini,Cybersecurity Intern,30000,Bihar,"Power BI, MATLAB",BE
+Cognizant,Data Science Intern,25000,Punjab,"Docker, SolidWorks, AWS",BSc
+Google,UI/UX Design Intern,30000,West Bengal,"Excel, HTML/CSS, Tableau, TensorFlow","BSc, B.Tech"
+Flipkart,Machine Learning Intern,5000,Assam,"AWS, Kubernetes, ReactJS",MSc
+Google,Embedded Systems Intern,30000,Chandigarh,"MATLAB, JavaScript","MBA, BSc"
+Infosys,Embedded Systems Intern,15000,Chandigarh,"Linux, NodeJS, CAD, SQL","B.Tech, MSc"
+TCS,Digital Marketing Intern,20000,Kerala,"SolidWorks, JavaScript, Azure, ReactJS",MSc
+Capgemini,Embedded Systems Intern,30000,Uttar Pradesh,"JavaScript, CAD, Tableau, C++","BE, MBA"
+IBM,Digital Marketing Intern,20000,Remote,"ReactJS, Docker, NodeJS, C++, CAD","B.Tech, BSc"
+Cognizant,Mobile App Development Intern,10000,Tamil Nadu,"SolidWorks, NodeJS","BSc, BE"
+Capgemini,Cloud Engineering Intern,30000,Remote,"TensorFlow, Docker, Power BI, NodeJS","BE, BSc"
+Infosys,Embedded Systems Intern,20000,Bihar,"CAD, JavaScript, Tableau",B.Tech
+IBM,Data Science Intern,25000,Punjab,"Docker, TensorFlow, Azure, JavaScript",BE
+Tech Mahindra,Robotics Intern,15000,Maharashtra,"JavaScript, PyTorch, CAD",MSc
+Infosys,Digital Marketing Intern,5000,Gujarat,"Python, AWS, Linux","B.Tech, BSc, BE"
+Amazon,Cybersecurity Intern,30000,Kerala,"Power BI, ReactJS, Azure, C++","BSc, MBA"
+Google,Cybersecurity Intern,25000,Bihar,"Python, SolidWorks, SQL, PyTorch, MATLAB","BSc, BE"
+Capgemini,Cloud Engineering Intern,25000,Andhra Pradesh,"Azure, HTML/CSS, Docker","MSc, MBA, BE"
+HCL,Digital Marketing Intern,30000,Karnataka,"AWS, Azure, Python, CAD, PyTorch","BE, BSc"
+Infosys,Digital Marketing Intern,10000,Bihar,"Docker, TensorFlow, JavaScript, C++",BE
+Microsoft,Web Development Intern,10000,Odisha,"NodeJS, Keras, Excel",BSc
+Infosys,Machine Learning Intern,5000,West Bengal,"Docker, Azure, HTML/CSS","B.Tech, BSc, MBA"
+Byjus,Machine Learning Intern,30000,Assam,"AWS, Java, Python, JavaScript","BSc, MBA"
+Byjus,Embedded Systems Intern,10000,Andhra Pradesh,"Tableau, Power BI, CAD, Kubernetes, Keras",BE
+Capgemini,Digital Marketing Intern,30000,Assam,"HTML/CSS, AWS, Excel, Keras",B.Tech
+Capgemini,Digital Marketing Intern,30000,Chandigarh,"PyTorch, HTML/CSS, Docker, Tableau, Python","MBA, B.Tech, BSc"
+Tech Mahindra,Cybersecurity Intern,30000,Punjab,"TensorFlow, Python, Power BI, Azure, Docker","MBA, BSc, BE"
+Byjus,Business Analyst Intern,15000,Assam,"Azure, CAD","MSc, B.Tech, BE"
+Accenture,Cybersecurity Intern,15000,Gujarat,"ReactJS, TensorFlow, HTML/CSS, Keras",MSc
+Byjus,Machine Learning Intern,15000,Rajasthan,"Azure, NodeJS, Docker, SQL, PyTorch",BE
+Tech Mahindra,Data Science Intern,30000,West Bengal,"Tableau, Docker, Keras","BSc, BE, B.Tech"
+Google,Web Development Intern,5000,Kerala,"Excel, Kubernetes, NodeJS, Power BI, JavaScript",BE
+Accenture,UI/UX Design Intern,30000,Assam,"NodeJS, Kubernetes, MATLAB, HTML/CSS, Azure","BE, MSc, MBA"
+TCS,Machine Learning Intern,30000,Rajasthan,"ReactJS, C++","BE, B.Tech, MBA"
+IBM,Cloud Engineering Intern,25000,Madhya Pradesh,"TensorFlow, SolidWorks, Keras, Kubernetes, SQL","MSc, B.Tech, BSc"
+Amazon,Web Development Intern,20000,Odisha,"Power BI, TensorFlow, Kubernetes, Docker, CAD","MBA, BSc, MSc"
+Amazon,Machine Learning Intern,10000,Bihar,"Tableau, JavaScript","MBA, BE"
+Infosys,Robotics Intern,15000,Punjab,"HTML/CSS, TensorFlow, Tableau, Python, Excel","BSc, B.Tech"
+Capgemini,Cybersecurity Intern,15000,Gujarat,"Kubernetes, Keras, Power BI, Python","BSc, MSc"
+Amazon,UI/UX Design Intern,20000,Uttar Pradesh,"HTML/CSS, Linux, TensorFlow, ReactJS, PyTorch","B.Tech, MSc, MBA"
+Amazon,UI/UX Design Intern,30000,Gujarat,"Kubernetes, Docker, Tableau, C++","BE, MSc"
+Infosys,Business Analyst Intern,30000,Punjab,"ReactJS, Excel, NodeJS, AWS, HTML/CSS","BE, BSc, MBA"
+Microsoft,Mobile App Development Intern,20000,Kerala,"AWS, Tableau",BSc
+Byjus,Robotics Intern,20000,Delhi,"ReactJS, Azure, SolidWorks",MBA
+Microsoft,Data Science Intern,5000,Telangana,"JavaScript, Keras, Python","MBA, BE"
+TCS,Mobile App Development Intern,20000,West Bengal,"JavaScript, Azure","BSc, MBA, B.Tech"
+Microsoft,Embedded Systems Intern,30000,Gujarat,"NodeJS, SolidWorks, Kubernetes, ReactJS, Keras","BE, BSc, MBA"
+HCL,Digital Marketing Intern,15000,Telangana,"C++, NodeJS, Excel, MATLAB, JavaScript","BE, BSc"
+HCL,Cloud Engineering Intern,10000,Rajasthan,"Azure, Python, HTML/CSS, Tableau, TensorFlow",MSc
+Byjus,Robotics Intern,25000,Karnataka,"Python, PyTorch",B.Tech
+Flipkart,Cloud Engineering Intern,15000,Karnataka,"Docker, Excel, Keras, Power BI, Kubernetes","MSc, BSc"
+Cognizant,Cloud Engineering Intern,20000,Karnataka,"NodeJS, CAD, PyTorch, Excel",BE
+Accenture,UI/UX Design Intern,20000,Uttar Pradesh,"Java, MATLAB, JavaScript, Tableau, PyTorch","BSc, MSc, B.Tech"
+Flipkart,Mobile App Development Intern,15000,Uttar Pradesh,"NodeJS, Java, SQL, ReactJS",MBA
+IBM,Mobile App Development Intern,30000,West Bengal,"Docker, Keras",MSc
+Accenture,Data Science Intern,25000,Uttar Pradesh,"C++, Python",BE
+IBM,Robotics Intern,25000,Andhra Pradesh,"Power BI, JavaScript, HTML/CSS","BE, MBA, BSc"
+Infosys,Embedded Systems Intern,30000,Tamil Nadu,"PyTorch, MATLAB, Tableau","BSc, BE"
+Google,Embedded Systems Intern,10000,Andhra Pradesh,"NodeJS, CAD, Tableau, Linux, Azure","BE, MSc, BSc"
+Flipkart,Cybersecurity Intern,25000,Rajasthan,"Excel, ReactJS","BSc, MSc"
+Google,Robotics Intern,15000,Bihar,"Java, HTML/CSS, Linux","MBA, B.Tech, BSc"
+Google,Mobile App Development Intern,20000,Karnataka,"SQL, CAD, ReactJS",MBA
+Microsoft,Robotics Intern,20000,Tamil Nadu,"TensorFlow, C++, Linux","B.Tech, BE"
+Byjus,Embedded Systems Intern,10000,Bihar,"TensorFlow, NodeJS, Keras, Python","MSc, BE, B.Tech"
+TCS,Robotics Intern,25000,Bihar,"NodeJS, JavaScript, Linux, MATLAB",MSc
+Tech Mahindra,Web Development Intern,15000,Chandigarh,"Python, Azure",BSc
+Tech Mahindra,Web Development Intern,15000,Punjab,"Docker, JavaScript","BE, BSc"
+Accenture,Machine Learning Intern,25000,Maharashtra,"Azure, C++, Python, CAD","BE, MSc"
+IBM,Robotics Intern,15000,West Bengal,"C++, Excel","MBA, MSc"
+Tech Mahindra,UI/UX Design Intern,5000,West Bengal,"TensorFlow, NodeJS","B.Tech, MBA"
+Infosys,Machine Learning Intern,20000,Kerala,"Tableau, CAD, ReactJS, Java","BE, BSc, B.Tech"
+IBM,Cybersecurity Intern,20000,Tamil Nadu,"C++, MATLAB, SQL, AWS",MSc
+Accenture,Web Development Intern,15000,Madhya Pradesh,"TensorFlow, PyTorch, Java, Python, Keras","MBA, BSc, BE"
+HCL,Digital Marketing Intern,5000,Madhya Pradesh,"Tableau, Keras, Excel","BSc, BE, B.Tech"
+Wipro,Data Science Intern,15000,Andhra Pradesh,"HTML/CSS, NodeJS","MBA, MSc, BSc"
+TCS,UI/UX Design Intern,25000,Uttar Pradesh,"C++, Excel, Tableau, TensorFlow, PyTorch","MSc, MBA, BE"
+Infosys,Cybersecurity Intern,10000,Karnataka,"Python, Excel, Keras, Kubernetes","MBA, B.Tech"
+IBM,UI/UX Design Intern,25000,Madhya Pradesh,"MATLAB, Azure","MSc, MBA"
+Amazon,Digital Marketing Intern,5000,Andhra Pradesh,"AWS, Linux, Docker","MSc, B.Tech, BE"
+IBM,Digital Marketing Intern,25000,Uttar Pradesh,"PyTorch, Kubernetes","B.Tech, BSc"
+Cognizant,Business Analyst Intern,10000,Gujarat,"HTML/CSS, Keras, NodeJS, C++","MBA, MSc"
+Tech Mahindra,Embedded Systems Intern,15000,Telangana,"NodeJS, SQL, Keras, Excel, Python","BSc, BE"
+HCL,UI/UX Design Intern,10000,Karnataka,"Python, TensorFlow, SQL, HTML/CSS","B.Tech, BE"
+Tech Mahindra,Cloud Engineering Intern,25000,Tamil Nadu,"Tableau, Kubernetes, CAD","MBA, BE, B.Tech"
+Flipkart,Machine Learning Intern,20000,Tamil Nadu,"NodeJS, CAD, Python, MATLAB, PyTorch","BSc, B.Tech"
+Google,Robotics Intern,25000,Maharashtra,"NodeJS, SolidWorks, SQL, JavaScript",BSc
+Google,Web Development Intern,25000,Madhya Pradesh,"AWS, Azure, SQL, PyTorch","MSc, B.Tech, BSc"
+Cognizant,Data Science Intern,10000,Delhi,"Kubernetes, Tableau, JavaScript, ReactJS, Excel","BSc, BE, MSc"
+Flipkart,Cloud Engineering Intern,25000,Telangana,"Kubernetes, Power BI, ReactJS",MBA
+Byjus,UI/UX Design Intern,5000,Odisha,"C++, SQL, Docker, Power BI","BE, MBA, B.Tech"
+Cognizant,Embedded Systems Intern,25000,Telangana,"ReactJS, Kubernetes, SQL, TensorFlow",MBA
+Capgemini,Data Science Intern,25000,Rajasthan,"CAD, HTML/CSS, ReactJS, TensorFlow, MATLAB","MSc, MBA"
+Cognizant,Web Development Intern,10000,West Bengal,"NodeJS, SQL","BSc, BE"
+Infosys,Embedded Systems Intern,10000,Tamil Nadu,"Java, AWS","BE, MSc"
+Infosys,Digital Marketing Intern,15000,Uttar Pradesh,"Keras, TensorFlow, SQL, C++, PyTorch","BE, B.Tech"
+Capgemini,Digital Marketing Intern,5000,Madhya Pradesh,"Excel, C++, HTML/CSS",B.Tech
+Wipro,Digital Marketing Intern,15000,Assam,"HTML/CSS, CAD, JavaScript, Keras, C++","MBA, B.Tech"
+Tech Mahindra,UI/UX Design Intern,30000,Maharashtra,"Java, TensorFlow, Keras, Docker",BSc
+Google,Cloud Engineering Intern,5000,Uttar Pradesh,"C++, CAD, Keras, Java",BE
+IBM,Business Analyst Intern,25000,Delhi,"Python, ReactJS, NodeJS, Java","MBA, B.Tech, MSc"
+Flipkart,Data Science Intern,5000,Uttar Pradesh,"Tableau, Azure","B.Tech, MSc, BSc"
+Flipkart,Robotics Intern,5000,Gujarat,"ReactJS, C++, SolidWorks","B.Tech, MBA, BE"
+Infosys,Machine Learning Intern,10000,Tamil Nadu,"Keras, Java, TensorFlow, SQL, Power BI","BE, MBA"
+Capgemini,Cybersecurity Intern,10000,Maharashtra,"Power BI, SQL, Kubernetes, AWS, Excel","MBA, BE"
+Accenture,Business Analyst Intern,15000,Maharashtra,"TensorFlow, Linux, CAD",MBA
+HCL,UI/UX Design Intern,5000,Punjab,"Docker, Power BI",BSc
+Wipro,Machine Learning Intern,10000,Assam,"AWS, Excel",MSc
+Tech Mahindra,Cloud Engineering Intern,30000,Assam,"NodeJS, Power BI, Java, Excel, Keras",MSc
+Infosys,Embedded Systems Intern,5000,Odisha,"Kubernetes, Java, CAD, Azure, PyTorch",MSc
+Cognizant,Business Analyst Intern,15000,Chandigarh,"Power BI, MATLAB, AWS, NodeJS","BSc, MSc, B.Tech"
+Infosys,Embedded Systems Intern,30000,Assam,"JavaScript, Python, Linux",BSc
+Infosys,UI/UX Design Intern,30000,Remote,"Java, NodeJS, PyTorch, JavaScript","MBA, MSc, BE"
+Cognizant,Cloud Engineering Intern,15000,Andhra Pradesh,"Keras, CAD","B.Tech, BSc"
+Google,Web Development Intern,5000,Odisha,"Power BI, CAD, TensorFlow, Python, Excel","MSc, BSc"
+Byjus,UI/UX Design Intern,15000,Kerala,"SolidWorks, HTML/CSS, C++",MSc
+Accenture,Web Development Intern,5000,Telangana,"PyTorch, NodeJS, ReactJS, SolidWorks, C++","MBA, B.Tech, BSc"
+IBM,Machine Learning Intern,25000,Delhi,"MATLAB, Docker, SolidWorks",BE
+Cognizant,Business Analyst Intern,30000,Madhya Pradesh,"SolidWorks, TensorFlow, Python","MSc, BSc"
+IBM,Mobile App Development Intern,10000,Punjab,"PyTorch, CAD, Excel","B.Tech, BE"
+IBM,UI/UX Design Intern,25000,Chandigarh,"HTML/CSS, C++, Power BI, Python, Keras",BSc
+Flipkart,UI/UX Design Intern,5000,Delhi,"ReactJS, SolidWorks","MBA, MSc"
+Wipro,Machine Learning Intern,25000,Telangana,"Tableau, PyTorch, SolidWorks, C++, AWS","MBA, MSc, BE"
+Infosys,Cloud Engineering Intern,10000,Andhra Pradesh,"Excel, Tableau, Power BI","BSc, MBA, MSc"
+Amazon,Data Science Intern,25000,Madhya Pradesh,"Kubernetes, JavaScript, Excel","MSc, MBA, B.Tech"
+Amazon,Robotics Intern,15000,Andhra Pradesh,"Tableau, ReactJS, Power BI, TensorFlow",BE
+Wipro,Digital Marketing Intern,30000,Tamil Nadu,"Tableau, Python, Linux, Azure, NodeJS","BSc, MBA, MSc"
+Wipro,Robotics Intern,10000,Punjab,"SQL, Keras","BSc, BE"
+TCS,Web Development Intern,30000,Assam,"Kubernetes, ReactJS, TensorFlow",BSc
+Microsoft,Robotics Intern,25000,Punjab,"SolidWorks, HTML/CSS, ReactJS","MSc, BE"
+Infosys,Business Analyst Intern,30000,Gujarat,"Power BI, Docker, AWS, Kubernetes",MBA
+Amazon,UI/UX Design Intern,25000,Assam,"Azure, Java, TensorFlow, Excel, Docker",BE
+HCL,Machine Learning Intern,30000,Kerala,"Tableau, Python",MBA
+Capgemini,Business Analyst Intern,20000,Tamil Nadu,"C++, Kubernetes, Tableau, Keras","BSc, B.Tech"
+Wipro,Mobile App Development Intern,20000,Telangana,"Java, Keras, NodeJS",MSc
+Accenture,UI/UX Design Intern,10000,Kerala,"Power BI, JavaScript, PyTorch","MSc, B.Tech, BE"
+Infosys,Machine Learning Intern,30000,Tamil Nadu,"SQL, CAD, MATLAB, Power BI, HTML/CSS","B.Tech, MSc"
+Tech Mahindra,Cloud Engineering Intern,20000,Chandigarh,"MATLAB, ReactJS, JavaScript, SolidWorks, AWS","MBA, BE"
+Flipkart,Business Analyst Intern,10000,Tamil Nadu,"ReactJS, Java, Azure, Tableau","MSc, B.Tech, BSc"
+Accenture,Machine Learning Intern,20000,Punjab,"ReactJS, Linux, SolidWorks","MSc, B.Tech, BE"
+Cognizant,Digital Marketing Intern,5000,Bihar,"Kubernetes, MATLAB, Java","MSc, MBA"
+HCL,Machine Learning Intern,10000,Kerala,"Kubernetes, Azure, CAD, SolidWorks",MSc
+Accenture,Embedded Systems Intern,10000,Telangana,"NodeJS, Azure, TensorFlow","BSc, B.Tech"
+Flipkart,Machine Learning Intern,30000,Assam,"ReactJS, Docker","B.Tech, BSc"
+HCL,Cybersecurity Intern,30000,Uttar Pradesh,"Azure, TensorFlow","BSc, MBA, BE"
+IBM,Data Science Intern,20000,Kerala,"Linux, JavaScript, CAD, HTML/CSS, MATLAB","BE, MBA, BSc"
+Capgemini,Robotics Intern,30000,Tamil Nadu,"Docker, CAD, MATLAB","BE, MSc, B.Tech"
+Accenture,Embedded Systems Intern,20000,Gujarat,"Java, Tableau, Kubernetes","BSc, B.Tech, MSc"
+Flipkart,Business Analyst Intern,25000,Remote,"C++, PyTorch",MBA
+Flipkart,Data Science Intern,25000,Assam,"SolidWorks, Linux","BE, B.Tech, MSc"
+Flipkart,Robotics Intern,15000,Karnataka,"PyTorch, Linux, Azure, Java",BE
+Infosys,Data Science Intern,25000,Punjab,"HTML/CSS, Kubernetes, ReactJS, Linux, MATLAB","B.Tech, MBA, BE"
+HCL,Mobile App Development Intern,5000,Maharashtra,"Excel, Kubernetes, Docker, Linux, MATLAB",BE
+Tech Mahindra,Data Science Intern,15000,Punjab,"Docker, C++, Linux, CAD, TensorFlow","BSc, B.Tech, BE"
+TCS,UI/UX Design Intern,15000,Rajasthan,"CAD, TensorFlow, Excel, Linux, NodeJS","MSc, BE"
+Accenture,Machine Learning Intern,15000,Odisha,"Azure, CAD, Linux, ReactJS",MBA
+Accenture,Business Analyst Intern,10000,West Bengal,"AWS, MATLAB, Python","BSc, B.Tech, BE"
+Infosys,Data Science Intern,30000,Telangana,"Docker, SolidWorks, C++, MATLAB","BE, MBA, B.Tech"
+Amazon,Embedded Systems Intern,15000,Rajasthan,"NodeJS, Python","MBA, MSc, B.Tech"
+Amazon,Mobile App Development Intern,25000,Tamil Nadu,"CAD, Keras, NodeJS","MBA, MSc"
+Wipro,UI/UX Design Intern,25000,Telangana,"AWS, Azure, PyTorch","BE, MSc"
+Byjus,Data Science Intern,15000,Odisha,"SolidWorks, Python, JavaScript","MSc, BSc, BE"
+Amazon,Business Analyst Intern,5000,Madhya Pradesh,"CAD, Keras","MBA, BE"
+HCL,Digital Marketing Intern,15000,Delhi,"SolidWorks, Tableau, TensorFlow, Kubernetes","MBA, B.Tech"
+Accenture,Data Science Intern,25000,Andhra Pradesh,"MATLAB, Keras","MSc, BE, BSc"
+Cognizant,Web Development Intern,20000,Bihar,"SolidWorks, Excel, Power BI","B.Tech, BE, MSc"
+Capgemini,Machine Learning Intern,30000,Chandigarh,"MATLAB, SQL",BSc
+Flipkart,Embedded Systems Intern,10000,Chandigarh,"Kubernetes, ReactJS","BE, B.Tech, BSc"
+HCL,Data Science Intern,15000,Remote,"Kubernetes, Keras, ReactJS, CAD","MBA, MSc, BSc"
+Accenture,Cybersecurity Intern,15000,Bihar,"Power BI, Tableau, MATLAB, AWS","MSc, BE"
+IBM,Digital Marketing Intern,25000,Remote,"TensorFlow, SQL, AWS, Tableau, Kubernetes","BE, MSc, BSc"
+Microsoft,Cloud Engineering Intern,10000,Bihar,"Excel, Linux",MSc
+TCS,Web Development Intern,25000,West Bengal,"Power BI, Docker, HTML/CSS, JavaScript, C++","BE, B.Tech, MSc"
+Wipro,Digital Marketing Intern,30000,Karnataka,"AWS, Linux","BE, B.Tech"
+Cognizant,Data Science Intern,25000,Kerala,"Keras, Linux, NodeJS","B.Tech, BE"
+Tech Mahindra,Web Development Intern,25000,Assam,"Kubernetes, AWS","B.Tech, BE"
+Accenture,UI/UX Design Intern,10000,Telangana,"Java, Azure, Excel","MSc, BE"
+Accenture,Data Science Intern,5000,Bihar,"Kubernetes, NodeJS, Linux, JavaScript, Python",MBA
+Byjus,Mobile App Development Intern,30000,Kerala,"ReactJS, C++, MATLAB, PyTorch, Excel","BSc, MBA, MSc"
+Infosys,UI/UX Design Intern,5000,Delhi,"CAD, JavaScript, Linux, HTML/CSS","MSc, B.Tech"
+Accenture,Data Science Intern,20000,Assam,"Keras, Tableau, ReactJS, SQL, Power BI","BE, B.Tech, MBA"
+HCL,Machine Learning Intern,25000,Maharashtra,"TensorFlow, PyTorch, Excel","B.Tech, MBA"
+Byjus,Data Science Intern,5000,Gujarat,"CAD, C++, Tableau, MATLAB, Power BI","BE, B.Tech"
+HCL,Digital Marketing Intern,30000,Remote,"Power BI, Excel, Python, MATLAB","BSc, MSc"
+Amazon,UI/UX Design Intern,10000,Remote,"Docker, Excel, TensorFlow, Azure","BE, B.Tech"
+Infosys,Robotics Intern,5000,Assam,"CAD, PyTorch, ReactJS, Power BI, C++","MSc, BE"
+Tech Mahindra,Web Development Intern,15000,Bihar,"Docker, HTML/CSS, Excel, TensorFlow, Linux","MBA, MSc"
+Byjus,Mobile App Development Intern,25000,Karnataka,"Python, Linux","BE, BSc"
+Capgemini,Machine Learning Intern,15000,Remote,"Keras, Java",B.Tech
+Flipkart,Embedded Systems Intern,10000,Karnataka,"Excel, Keras, TensorFlow, C++, Linux","BE, MSc, BSc"
+Byjus,UI/UX Design Intern,15000,Kerala,"MATLAB, Python, Power BI, Linux, NodeJS","B.Tech, MBA, MSc"
+IBM,Robotics Intern,20000,Tamil Nadu,"CAD, Docker","MBA, MSc, BE"
+TCS,Web Development Intern,25000,Odisha,"JavaScript, Java",MBA
+Tech Mahindra,Robotics Intern,30000,Maharashtra,"PyTorch, SolidWorks, Python, Tableau, HTML/CSS","BE, MBA, MSc"
+Tech Mahindra,Embedded Systems Intern,5000,Odisha,"Excel, NodeJS, MATLAB","B.Tech, MBA"
+Infosys,Cybersecurity Intern,15000,Remote,"Java, MATLAB","MSc, BSc, BE"
+TCS,Mobile App Development Intern,15000,Remote,"SQL, ReactJS, Keras, CAD, C++","MBA, B.Tech, BE"
+Byjus,Business Analyst Intern,20000,Chandigarh,"Java, AWS, Tableau, Power BI, CAD","B.Tech, MBA, MSc"
+IBM,Embedded Systems Intern,15000,Karnataka,"JavaScript, CAD",BSc
+Microsoft,Machine Learning Intern,20000,Assam,"Azure, PyTorch, Python, Tableau, AWS","B.Tech, MBA"
+Google,Robotics Intern,10000,Assam,"MATLAB, Linux, SolidWorks","BE, MSc"
+Wipro,Machine Learning Intern,10000,Chandigarh,"Docker, Tableau","B.Tech, MSc, MBA"
+HCL,Business Analyst Intern,10000,Odisha,"Azure, TensorFlow, PyTorch, MATLAB, SQL",BSc
+IBM,Business Analyst Intern,10000,Maharashtra,"Linux, HTML/CSS, Java, ReactJS, Tableau","MBA, BSc, B.Tech"
+Accenture,Embedded Systems Intern,25000,Delhi,"SolidWorks, Python","MSc, MBA, B.Tech"
+IBM,Cloud Engineering Intern,25000,Rajasthan,"JavaScript, Keras, Excel",BSc
+Tech Mahindra,Web Development Intern,5000,Punjab,"TensorFlow, SQL","BSc, MSc, BE"
+Amazon,UI/UX Design Intern,20000,Karnataka,"Tableau, NodeJS, Python",BSc
+Wipro,Machine Learning Intern,30000,Madhya Pradesh,"MATLAB, HTML/CSS, SQL, Kubernetes","MBA, BE"
+Cognizant,UI/UX Design Intern,15000,Bihar,"SolidWorks, AWS, JavaScript, Python, Excel",BE
+Cognizant,Machine Learning Intern,20000,West Bengal,"MATLAB, Keras, Java, Kubernetes","B.Tech, MBA, MSc"
+Amazon,Cybersecurity Intern,10000,Odisha,"Tableau, Docker, SolidWorks, AWS, NodeJS","BE, BSc, MBA"
+Flipkart,UI/UX Design Intern,10000,Tamil Nadu,"Java, NodeJS, C++, Excel","MSc, MBA"
+TCS,Business Analyst Intern,30000,Rajasthan,"CAD, SQL, JavaScript, Docker",MSc
+HCL,Mobile App Development Intern,15000,Uttar Pradesh,"Keras, ReactJS",BE
+Byjus,Machine Learning Intern,15000,Madhya Pradesh,"HTML/CSS, NodeJS, SQL","MSc, BSc, MBA"
+Capgemini,Cloud Engineering Intern,15000,Rajasthan,"HTML/CSS, TensorFlow, SQL, PyTorch","MSc, BE"
+Capgemini,Embedded Systems Intern,20000,Remote,"ReactJS, SQL","MSc, MBA"
+Cognizant,Mobile App Development Intern,5000,Kerala,"ReactJS, TensorFlow","MBA, B.Tech, BE"
+IBM,UI/UX Design Intern,15000,Remote,"ReactJS, Kubernetes, Docker, Python, Excel",BE
+Tech Mahindra,Digital Marketing Intern,5000,Madhya Pradesh,"TensorFlow, Keras, Java",BSc
+Wipro,Web Development Intern,25000,Karnataka,"NodeJS, SolidWorks","MBA, MSc"
+Capgemini,Cybersecurity Intern,30000,Assam,"TensorFlow, Power BI, JavaScript, MATLAB","B.Tech, MSc, BE"
+Wipro,Robotics Intern,5000,Maharashtra,"Java, Python, Kubernetes","MBA, B.Tech"
+Google,Web Development Intern,25000,Uttar Pradesh,"AWS, Keras","BE, BSc, MSc"
+Amazon,Embedded Systems Intern,20000,Uttar Pradesh,"C++, NodeJS, SQL, TensorFlow","MSc, BSc, MBA"
+Byjus,Robotics Intern,25000,Maharashtra,"MATLAB, Python, Docker","BSc, B.Tech, MSc"
+Tech Mahindra,Business Analyst Intern,15000,Punjab,"Tableau, MATLAB, HTML/CSS","BSc, MBA, BE"
+Infosys,Data Science Intern,20000,Bihar,"Excel, Keras, TensorFlow, Power BI",MBA
+Infosys,UI/UX Design Intern,25000,Rajasthan,"Tableau, NodeJS, Java","BSc, MSc"
+Infosys,Embedded Systems Intern,30000,West Bengal,"Keras, CAD, Python","BSc, MBA"
+Capgemini,Robotics Intern,20000,Chandigarh,"Excel, SolidWorks, CAD, Docker, SQL","BE, BSc"
+Capgemini,Business Analyst Intern,30000,Delhi,"Java, AWS","BSc, B.Tech, MSc"
+Microsoft,Business Analyst Intern,15000,Uttar Pradesh,"AWS, Linux",MSc
+Google,Business Analyst Intern,10000,Karnataka,"SolidWorks, TensorFlow, PyTorch, Keras, Kubernetes","B.Tech, BSc"
+Google,Digital Marketing Intern,25000,Telangana,"Excel, C++, Power BI","B.Tech, BE, MBA"
+Wipro,UI/UX Design Intern,10000,Assam,"HTML/CSS, SQL","BE, MBA, B.Tech"
+IBM,Robotics Intern,10000,Uttar Pradesh,"TensorFlow, Power BI, C++, SQL",BSc
+Cognizant,UI/UX Design Intern,10000,Kerala,"Tableau, CAD, Kubernetes",MBA
+Flipkart,Digital Marketing Intern,25000,West Bengal,"AWS, Python","BSc, MBA"
+Amazon,Cloud Engineering Intern,5000,Tamil Nadu,"Azure, Keras","B.Tech, BSc, MBA"
+Cognizant,Embedded Systems Intern,15000,Telangana,"Kubernetes, Python, ReactJS, MATLAB","BE, BSc"
+Capgemini,Data Science Intern,10000,Rajasthan,"Python, Keras, Kubernetes, NodeJS","B.Tech, BSc"
+Accenture,Business Analyst Intern,25000,Gujarat,"Tableau, SQL, Java, MATLAB, TensorFlow",BE
+Cognizant,Data Science Intern,30000,Uttar Pradesh,"Python, NodeJS, Java","BSc, BE"
+Wipro,Cybersecurity Intern,5000,Chandigarh,"Python, MATLAB, HTML/CSS, AWS, SolidWorks","BE, BSc, B.Tech"
+Accenture,Cybersecurity Intern,20000,Assam,"AWS, Java, Excel, ReactJS",MSc
+IBM,UI/UX Design Intern,30000,Chandigarh,"JavaScript, NodeJS, C++","BSc, MSc, B.Tech"
+Google,Web Development Intern,5000,Gujarat,"Tableau, HTML/CSS","BE, BSc"
+IBM,Digital Marketing Intern,15000,Gujarat,"ReactJS, AWS, Linux, PyTorch, JavaScript",MSc
+TCS,Cybersecurity Intern,30000,Karnataka,"Java, Kubernetes, SQL, TensorFlow",B.Tech
+TCS,Web Development Intern,20000,Andhra Pradesh,"Linux, Python, MATLAB, Keras, Power BI","MBA, BSc, BE"
+Cognizant,Embedded Systems Intern,20000,Andhra Pradesh,"Excel, Azure",MBA
+Tech Mahindra,UI/UX Design Intern,5000,Maharashtra,"CAD, ReactJS, Power BI","B.Tech, MSc"
+Infosys,Web Development Intern,30000,Madhya Pradesh,"AWS, Excel, CAD, ReactJS",BE
+Cognizant,Embedded Systems Intern,20000,Punjab,"PyTorch, C++, MATLAB, Keras",BSc
+Microsoft,Web Development Intern,25000,Odisha,"Power BI, HTML/CSS, NodeJS, C++","BSc, BE, B.Tech"
+Amazon,Mobile App Development Intern,25000,Kerala,"PyTorch, C++, HTML/CSS",MSc
+Byjus,Mobile App Development Intern,15000,Maharashtra,"Docker, NodeJS, Linux, Azure","BE, B.Tech, MSc"
+Google,Business Analyst Intern,20000,Rajasthan,"NodeJS, HTML/CSS, MATLAB",BSc
+TCS,Cloud Engineering Intern,15000,Assam,"Java, Python",BSc
+Infosys,Machine Learning Intern,20000,Maharashtra,"Azure, JavaScript",BSc
+Tech Mahindra,Robotics Intern,25000,Karnataka,"JavaScript, Tableau","MSc, BE"
+Cognizant,Web Development Intern,5000,Uttar Pradesh,"Power BI, SolidWorks","MSc, MBA"
+Infosys,Embedded Systems Intern,15000,Bihar,"Tableau, Power BI, PyTorch, NodeJS","MBA, B.Tech"
+IBM,Embedded Systems Intern,30000,Bihar,"Docker, Excel","BSc, B.Tech"
+Cognizant,Embedded Systems Intern,10000,Andhra Pradesh,"Power BI, Java, SQL","BE, MSc, BSc"
+HCL,UI/UX Design Intern,5000,West Bengal,"TensorFlow, Kubernetes, Java, MATLAB, Keras","MBA, B.Tech, BE"
