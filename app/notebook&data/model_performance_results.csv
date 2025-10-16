@@ -1,0 +1,8 @@
+Model,Accuracy,Rank
+XGBoost,0.912,1
+LightGBM,0.896,2
+Voting Ensemble,0.896,3
+Stacking Ensemble,0.888,4
+Decision Tree,0.856,5
+Random Forest,0.816,6
+Logistic Regression,0.6,7
